@@ -23,6 +23,7 @@ namespace DemoApp_CI
 {
     /// <summary>
     /// 
+    /// 
     /// A page that displays details for a single item within a group.
     /// </summary>
     public sealed partial class ItemPage : Page

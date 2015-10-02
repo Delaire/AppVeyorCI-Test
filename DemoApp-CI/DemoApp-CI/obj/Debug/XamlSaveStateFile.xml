@@ -1,5 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\damien\documents\github\appveyorci-test\demoapp-ci\demoapp-ci\obj\debug\intermediatexaml\demoapp-ci.exe" HashGuid="13d20035-f5f9-ebeb-8e04-71867180a0ce" />
     <ReferenceAssembly PathName="c:\users\damien\documents\github\appveyorci-test\demoapp-ci\packages\mvvmlightlibs.5.2.0.0\lib\wpa81\galasoft.mvvmlight.dll" HashGuid="d702f8e6-9904-1220-8de7-be8614bf93e8" />
     <ReferenceAssembly PathName="c:\users\damien\documents\github\appveyorci-test\demoapp-ci\packages\mvvmlightlibs.5.2.0.0\lib\wpa81\galasoft.mvvmlight.extras.dll" HashGuid="f59e2cac-89a1-06f4-bbe7-18857251ef78" />
     <ReferenceAssembly PathName="c:\users\damien\documents\github\appveyorci-test\demoapp-ci\packages\mvvmlightlibs.5.2.0.0\lib\wpa81\galasoft.mvvmlight.platform.dll" HashGuid="27c4f135-c15f-18a2-cb9f-847748d33bdb" />
